@@ -1,6 +1,8 @@
 # 🌦️ WeatherWise India
 **A High-Performance Weather Intelligence Dashboard**
 
+[**🌐 View Live Project**](https://annaeshadebnath.github.io/weatherwise/)
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,8 +30,10 @@ This project demonstrates proficiency in modern frontend development practices:
 - **Data Range Logic:** Implements custom JavaScript algorithms to normalize temperature ranges when API reporting is static.
 
 
+.  **Launch:**
+    Simply visit the [**Live Site**](https://annaeshadebnath.github.io/weatherwise/) or open `index.html` locally.
+
 ---
 
 ### 👨‍💻 Developed By
 **Annaesha Debnath** 
-

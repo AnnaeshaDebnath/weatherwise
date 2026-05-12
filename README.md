@@ -27,16 +27,6 @@ This project demonstrates proficiency in modern frontend development practices:
 - **Responsive Layout Engine:** Utilizes CSS Flexbox and `clamp()` functions to ensure a seamless experience across desktop and mobile viewports.
 - **Data Range Logic:** Implements custom JavaScript algorithms to normalize temperature ranges when API reporting is static.
 
-## 🛠️ Installation & Usage
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/AnnaeshaDebnath/weatherwise.git](https://github.com/AnnaeshaDebnath/weatherwise.git)
-    ```
-2.  **Configuration:**
-    Open `script.js` and ensure your OpenWeatherMap API key is active.
-3.  **Launch:**
-    Open `index.html` in your preferred browser.
 
 ---
 

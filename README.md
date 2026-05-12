@@ -31,6 +31,5 @@ This project demonstrates proficiency in modern frontend development practices:
 ---
 
 ### 👨‍💻 Developed By
-**Annaesha Debnath** *Frontend Developer & Project Lead*
+**Annaesha Debnath** 
 
-[Portfolio](https://github.com/AnnaeshaDebnath) | [LinkedIn](#) | [Twitter](#)
